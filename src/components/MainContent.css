@@ -1,0 +1,29 @@
+/* MainContent.css */
+.main-content {
+    padding: 20px;
+  }
+  
+  .intro {
+    margin: 20px 0;
+  }
+  
+  .subtitle {
+    font-size: 24px;
+    color: var(--primary-color);
+  }
+  
+  .cta-button {
+    background-color: var(--secondary-color);
+    border: none;
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  .cta-button:hover {
+    background-color: #d4b214;  /* Slightly darker yellow */
+  }
+  
